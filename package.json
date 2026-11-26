@@ -1,0 +1,1 @@
+{"description":"make.fun entry: one single-line joke excusing a missed deadline","license":"MIT","main":"main.ts","name":"makefun-one-line-no-deadline-met-v2","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
